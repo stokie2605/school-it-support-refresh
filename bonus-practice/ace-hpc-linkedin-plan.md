@@ -1,35 +1,35 @@
 # ac&e HPC Social Media Strategy
-## [cite_start]Bonus Concept Note [cite: 552]
+## Bonus Concept Note
 
 ### 1. Objective
-[cite_start]Design a practical AI-assisted LinkedIn strategy for ac&e's High-Performance Computing business that helps technical decision-makers understand the value of bespoke HPC infrastructure for engineering simulation workloads[cite: 554].
+Design a practical AI-assisted LinkedIn strategy for ac&e's High-Performance Computing business that helps technical decision-makers understand the value of bespoke HPC infrastructure for engineering simulation workloads.
 
 ---
 
 ### 2. Platform & Positioning
-* [cite_start]**Primary Platform: LinkedIn** [cite: 578]
-* [cite_start]**Why it works:** The audience is narrow, technical, and strictly B2B (senior engineers, simulation leads, IT managers, and technical directors)[cite: 579, 580].
-* [cite_start]**Positioning:** *Practical HPC advice for engineering teams whose simulations are outgrowing ordinary workstations [cite: 584][cite_start].* Tone is specific, calm, and technically credible[cite: 585].
+* **Primary Platform: LinkedIn**
+* **Why it works:** The audience is narrow, technical, and strictly B2B (senior engineers, simulation leads, IT managers, and technical directors).
+* **Positioning:** *Practical HPC advice for engineering teams whose simulations are outgrowing ordinary workstations.* Tone is specific, calm, and technically credible.
 
 ---
 
 ### 3. Core Audience Pain Points
-* [cite_start]Simulations taking too long to run, causing engineers to wait around for workstation availability[cite: 598, 599].
-* [cite_start]Unclear cost comparisons between cloud bursts and owned on-premise infrastructure[cite: 600].
-* [cite_start]Uncertainty around hardware scaling (CPU vs. GPU vs. RAM requirements) for complex CFD or FEA models[cite: 601].
+* Simulations taking too long to run, causing engineers to wait around for workstation availability.
+* Unclear cost comparisons between cloud bursts and owned on-premise infrastructure.
+* Uncertainty around hardware scaling (CPU vs. GPU vs. RAM requirements) for complex CFD or FEA models.
 
 ---
 
 ### 4. Content Pillars
-* [cite_start]**Pillar 1: Simulation Bottlenecks** – How solve times directly impact engineering throughput and decision-making deadlines[cite: 606, 610].
-* [cite_start]**Pillar 2: Cloud vs. On-Premise HPC** – Breaking down usage patterns; cloud isn't automatically cheaper for sustained engineering workloads[cite: 612, 615].
-* [cite_start]**Pillar 3: Practical HPC Buying Advice** – Explaining sizing in plain English, starting with the specific engineering software and model size rather than arbitrary hardware specs[cite: 618, 622].
-* [cite_start]**Pillar 4: Applied Engineering Use Cases** – Connecting infrastructure power directly to product development outcomes, like running more design iterations[cite: 624, 628].
+* **Pillar 1: Simulation Bottlenecks** – How solve times directly impact engineering throughput and decision-making deadlines.
+* **Pillar 2: Cloud vs. On-Premise HPC** – Breaking down usage patterns; cloud isn't automatically cheaper for sustained engineering workloads.
+* **Pillar 3: Practical HPC Buying Advice** – Explaining sizing in plain English, starting with the specific engineering software and model size rather than arbitrary hardware specs.
+* **Pillar 4: Applied Engineering Use Cases** – Connecting infrastructure power directly to product development outcomes, like running more design iterations.
 
 ---
 
 ### 5. Efficient AI-Assisted Content Workflow
-[cite_start]To maintain consistency without a dedicated marketing resource, ac&e can use a structured production pipeline[cite: 569, 570]:
-1. [cite_start]**Input:** Extract raw technical notes or a voice memo from an internal specialist[cite: 634].
-2. [cite_start]**AI Structuring:** Utilize LLMs to format the engineering insights into distinct styles (e.g., direct explanation, myth vs. reality, checklist)[cite: 635].
-3. [cite_start]**Human Polish:** Manually review the drafts to scrub generic AI phrasing and verify technical accuracy before scheduling[cite: 639, 640].
+To maintain consistency without a dedicated marketing resource, ac&e can use a structured production pipeline:
+1. **Input:** Extract raw technical notes or a voice memo from an internal specialist.
+2. **AI Structuring:** Utilize LLMs to format the engineering insights into distinct styles (e.g., direct explanation, myth vs. reality, checklist).
+3. **Human Polish:** Manually review the drafts to scrub generic AI phrasing and verify technical accuracy before scheduling.
