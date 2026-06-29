@@ -2,11 +2,13 @@
 
 Production-oriented digital operations, messaging, and UX refresh case study for a school-focused IT support provider.
 
-## Overview
+## 🏢 Commercial Experience Overview
 
-Digital Ops Con Ed Refresh documents a completed digital strategy and website messaging project for Con Ed, an IT support provider serving primary schools across Hertfordshire. The repository captures the strategic repositioning, homepage structure, visual concepts, and supporting campaign practice assets created during the delivery sprint.
+This repository documents **actual commercial work delivered for a real-world client**. 
 
-The project is not an application codebase. It is a production-facing digital operations and content strategy repository containing documentation, visual assets, and campaign frameworks.
+I was brought in by **Con Ed**—an established IT support provider serving primary schools across Hertfordshire—to execute a complete digital strategy and website messaging overhaul. The goal was to translate their highly technical service offerings into clear, business-focused value propositions for non-technical buyers (headteachers and bursars). 
+
+This repository captures the strategic repositioning, homepage architecture, visual concepts, and production-ready assets created during that delivery sprint. It demonstrates my ability to work directly with stakeholders, understand business requirements, and deliver production-facing digital operations.
 
 ## The Operational Problem
 
@@ -104,8 +106,8 @@ This repository does not require a build step.
 To review locally:
 
 ```bash
-cd "C:\Users\Wilshaw\Desktop\Personal projects\digital-ops-con-ed-refresh"
-dir
+git clone https://github.com/stokie2605/digital-ops-con-ed-refresh.git
+cd digital-ops-con-ed-refresh
 ```
 
 Open `README.md` in your editor or view the image assets directly from the `assets/` folder.
