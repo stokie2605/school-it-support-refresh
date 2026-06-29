@@ -91,9 +91,9 @@ Uses longevity, proximity, and low-pressure contact language to increase inquiry
 
 ![CTA Section](assets/03_trust_cta.png)
 
-## Bonus Practice Assets
+## Bonus Projects (Stride Allocations)
 
-The `bonus-practice/` directory contains additional technical marketing strategy exercises:
+In addition to the main Con Ed refresh, I successfully completed several bonus projects allocated by Stride during this period. These are included in the `bonus-practice/` directory and demonstrate additional technical marketing and strategy capabilities:
 
 - **Cyber Essentials Campaign:** Lead magnet and email sequence for engineering and technical businesses preparing for Cyber Essentials.
 - **STRIDE Simulation Strategy:** YouTube and social strategy for engineering simulation credibility and recruitment.
