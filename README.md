@@ -1,18 +1,18 @@
-# Digital Ops Con Ed Refresh
+# School IT Support Digital Operations & UX Refresh
 
 Production-oriented digital operations, messaging, and UX refresh case study for a school-focused IT support provider.
 
-## 🏢 Commercial Experience Overview
+## 🏢 Concept Overview
 
-This repository documents **actual commercial work delivered for a real-world client**. 
+This repository documents a strategic digital operations, messaging, and UX refresh case study for a school-focused IT support provider. 
 
-I was brought in by **Con Ed**—an established IT support provider serving primary schools across Hertfordshire—to execute a complete digital strategy and website messaging overhaul. The goal was to translate their highly technical service offerings into clear, business-focused value propositions for non-technical buyers (headteachers and bursars). 
+This project explores a complete digital strategy and website messaging overhaul for **EduSupport IT**—a conceptual IT support provider serving primary schools across Hertfordshire. The goal was to translate highly technical service offerings into clear, business-focused value propositions for non-technical buyers (headteachers and bursars). 
 
-This repository captures the strategic repositioning, homepage architecture, visual concepts, and production-ready assets created during that delivery sprint. It demonstrates my ability to work directly with stakeholders, understand business requirements, and deliver production-facing digital operations.
+This repository captures the strategic repositioning, homepage architecture, visual concepts, and production-ready assets created during this study. It demonstrates ability to analyze business requirements, structure user experiences, and deliver production-facing digital operations.
 
 ## The Operational Problem
 
-Con Ed's service model is operationally valuable: relationship-led, weekly on-site technical support for schools. The problem was that the previous digital presence did not clearly communicate that value to the people responsible for buying school IT support.
+EduSupport IT's service model is operationally valuable: relationship-led, weekly on-site technical support for schools. The problem was that the previous digital presence did not clearly communicate that value to the people responsible for buying school IT support.
 
 The operational challenges included:
 
@@ -24,7 +24,7 @@ The operational challenges included:
 
 ## The Solution
 
-The refresh centralizes Con Ed's positioning around practical school outcomes: reliable support, friendly on-site presence, fewer classroom disruptions, and trusted local service. Instead of leading with technical inventory, the strategy frames IT support through operational continuity for primary schools.
+The refresh centralizes EduSupport IT's positioning around practical school outcomes: reliable support, friendly on-site presence, fewer classroom disruptions, and trusted local service. Instead of leading with technical inventory, the strategy frames IT support through operational continuity for primary schools.
 
 The repository includes:
 
@@ -48,7 +48,7 @@ This project reflects a practical production lifecycle for digital operations wo
 
 ## Key Deliverables
 
-- **Digital positioning strategy:** Reframes Con Ed as a relationship-led school IT partner.
+- **Digital positioning strategy:** Reframes EduSupport IT as a relationship-led school IT partner.
 - **Homepage refresh direction:** Defines the hero message, service grouping, trust factors, and call-to-action flow.
 - **UX mockup assets:** Includes visual concepts stored in `assets/`.
 - **SEO foundation:** Targets local and education-specific search intent.
@@ -58,9 +58,9 @@ This project reflects a practical production lifecycle for digital operations wo
 ## Repository Structure
 
 ```text
-digital-ops-con-ed-refresh/
+school-it-support-refresh/
 ├── README.md
-├── con-ed-strategy-and-copy.md
+├── strategy-and-copy.md
 ├── assets/
 │   ├── 01_hero_section.png
 │   ├── 02_difference_services.png
@@ -91,9 +91,9 @@ Uses longevity, proximity, and low-pressure contact language to increase inquiry
 
 ![CTA Section](assets/03_trust_cta.png)
 
-## Bonus Projects (Stride Allocations)
+## Bonus Projects (B2B Practice)
 
-In addition to the main Con Ed refresh, I successfully completed several bonus projects allocated by Stride during this period. These are included in the `bonus-practice/` directory and demonstrate additional technical marketing and strategy capabilities:
+In addition to the main EduSupport IT refresh, I completed several bonus projects during this period. These are included in the `bonus-practice/` directory and demonstrate additional technical marketing and strategy capabilities:
 
 - **Cyber Essentials Campaign:** Lead magnet and email sequence for engineering and technical businesses preparing for Cyber Essentials.
 - **STRIDE Simulation Strategy:** YouTube and social strategy for engineering simulation credibility and recruitment.
@@ -106,8 +106,8 @@ This repository does not require a build step.
 To review locally:
 
 ```bash
-git clone https://github.com/stokie2605/digital-ops-con-ed-refresh.git
-cd digital-ops-con-ed-refresh
+git clone https://github.com/stokie2605/school-it-support-refresh.git
+cd school-it-support-refresh
 ```
 
 Open `README.md` in your editor or view the image assets directly from the `assets/` folder.
@@ -116,6 +116,6 @@ Open `README.md` in your editor or view the image assets directly from the `asse
 
 - Convert the approved strategy into implementation tickets before website build work begins.
 - Keep copy and visual sections under version control so client feedback can be tracked.
-- Add final approved page copy to `con-ed-strategy-and-copy.md`; the file is currently present but effectively empty.
+- Add final approved page copy to `strategy-and-copy.md`; the file is currently present but effectively empty.
 - Preserve source visuals and export-ready assets separately if this moves into a live website implementation.
-- Validate any SEO claims and local service wording against the final client-approved offer.
+- Validate any SEO claims and local service wording against the final approved offer.
