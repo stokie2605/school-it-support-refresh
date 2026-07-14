@@ -1,10 +1,20 @@
-# School IT Support Digital Operations & UX Refresh
-> **The 1-Line Mission:** UX copywriting refresh and messaging architecture mapping complex IT support workflows to plain-English value propositions for non-technical education sector buyers.
+# School IT Support — Service Catalog & SLA Workflow Architecture
 
-### ⚡ Engineering Breakdown
-* **The Problem:** Technical service providers often lead with dense infrastructure jargon (networks, backups, cybersecurity inventory) that fails to communicate operational value (classroom continuity, on-site technician presence) to non-technical school headteachers and bursars.
-* **The Solution:** A complete positioning strategy, homepage information architecture layout direction, local search optimization plan, and high-performance visual concept mockups (covering hero, benefit grouping, trust variables, and CTA flows) designed to optimize B2B conversion pathways.
-* **The Tech Stack:** `HTML5` `Tailwind CSS` `Visual Concept Assets` `SEO Heuristics`
+An operational framework and service delivery architecture designed to standardize school helpdesk workflows, structure incident management, and optimize support channels.
+
+---
+
+### ⚡ Operational Focus
+* **The Problem:** Educational IT environments frequently suffer from vague, unstructured user support requests, poor incident categorization, and communications gaps between technicians and non-technical staff.
+* **The Solution:** A structured ITIL-aligned Service Catalog and workflow matrix that maps clear escalation pathways, defines strict priority levels, and establishes readable Service Level Agreements (SLAs).
+
+---
+
+### 🛠️ Core Operational Implementations
+* **Incident Workflow Mapping:** Standardized decision trees for common institutional IT scenarios (e.g., classroom AV failures, domain account lockouts, network drops) to accelerate Mean Time to Resolution (MTTR).
+* **Service Level Agreements (SLAs):** Structured response, workaround, and resolution target timeframes calculated based on real-world operational impact and urgency.
+* **Tiered Escalation Procedures:** Clearly defined boundaries between Tier-1 triage, Tier-2 systems administration, and vendor escalations to prevent resource bottlenecks.
+* **Administrative Documentation:** Standard operating procedures (SOPs) and templates designed to streamline user communications during planned maintenance or critical infrastructure outages.
 
 ---
 
@@ -21,15 +31,8 @@
 
 ---
 
-## ⚙️ Content & Campaign Architecture
-*   **Plain-English Translations:** Translates SLA variables into direct classroom outcomes (e.g., "no-downtime backups" becomes "uninterrupted learning").
-*   **Local SEO Foundation:** Builds regional search relevance around primary education IT parameters in Hertfordshire.
-*   **Stride Social Campaign:** Includes digital recruitment and engagement framework assets stored in `/bonus-practice`.
-*   **ac&e HPC Layout Plan:** Detailed high-performance computing LinkedIn marketing schemas for computational engineering workflows.
-
-
-### Recent Project Cleanups & Upgrades
-* **Project Organization:** Cleaned up project folders by separating backend logic, frontend code, and testing suites.
-* **Security Fixes:** Swapped out weak authentication methods for secure hashing and tokens to protect user data.
-* **Database Tuning:** Reorganized database tables and data types to make queries run faster and handle dates/times properly.
-* **Code Cleanup:** Removed dead code, optimized slow loops, and set up strict linting rules to keep the codebase easy to read.
+## Recent Architectural Upgrades
+* **Operational Restructuring:** Standardized repository file hierarchies by separating core automation logic, helper scripts, and test files.
+* **Security Hardening:** Swapped legacy credential configs for environment variables and secure token validation policies.
+* **Database Schema Upgrades:** Refactored primitive database types into native data structures for robust ORM and transaction handling.
+* **Systems Maintenance:** Eradicated legacy diagnostic scripts, optimized loops, and established static analysis scanning to ensure code hygiene.
