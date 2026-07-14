@@ -26,3 +26,10 @@
 *   **Local SEO Foundation:** Builds regional search relevance around primary education IT parameters in Hertfordshire.
 *   **Stride Social Campaign:** Includes digital recruitment and engagement framework assets stored in `/bonus-practice`.
 *   **ac&e HPC Layout Plan:** Detailed high-performance computing LinkedIn marketing schemas for computational engineering workflows.
+
+
+## Recent Architectural Upgrades
+- **Structural Hygiene:** Reorganized the repository into distinct `src/`, `backend/`, and `tests/` directories.
+- **Security Enhancements:** Implemented constant-time cryptographic token verification to prevent timing attacks.
+- **Database Schema Upgrades:** Refactored primitive types into native data structures (e.g., Dates and Times) for robust ORM integration.
+- **Code Hygiene:** Eradicated dead code, legacy logs, and enforced strict linting/testing standards.
